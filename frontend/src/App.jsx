@@ -6,7 +6,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import PostGig from "./pages/PostGig";
-import ManageGigPage from "./pages/managegig.jsx";
+import ManageGigPage from "./pages/manageGig.jsx";
 import { Toaster } from "react-hot-toast";
 
 
