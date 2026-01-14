@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.input{@apply border p-2 mb-2 w-full}
+.btn{@apply bg-blue-500 text-white px-4 py-2 rounded}
+.card{@apply border p-4 mb-3 rounded shadow}
